@@ -1,0 +1,91 @@
+report_id,batch_id,product,defect_description,category,severity,data_origin
+AUT-001,B001,Brake Assembly,Wiring connector intermittently disconnects,Electrical,Medium,synthetic_demo
+AUT-002,B001,Dashboard Module,Inspection noted: door panel gap exceeds tolerance,Fitment,Medium,synthetic_demo
+AUT-003,B001,Dashboard Module,Misaligned mounting holes,Fitment,Medium,synthetic_demo
+AUT-004,B001,Car Door Assembly,Scratch through clear coat,Paint,High,synthetic_demo
+AUT-005,B001,Dashboard Module,Window switch fails during testing,Electrical,High,synthetic_demo
+AUT-006,B001,Car Door Assembly,Uneven coating thickness on car door,Paint,Low,synthetic_demo
+AUT-007,B001,Car Door Assembly,Operator reported: paint bubbles visible on panel,Paint,High,synthetic_demo
+AUT-008,B001,Brake Assembly,QC observation: panel edge sits above adjacent surface,Fitment,Medium,synthetic_demo
+AUT-009,B001,Car Door Assembly,Dashboard trim not seated properly,Fitment,Low,synthetic_demo
+AUT-010,B001,Brake Assembly,QC observation: wiring connector intermittently disconnects,Electrical,High,synthetic_demo
+AUT-011,B001,Brake Assembly,Uneven coating thickness on car door,Paint,Low,synthetic_demo
+AUT-012,B001,Dashboard Module,Scratch through clear coat,Paint,High,synthetic_demo
+AUT-013,B001,Dashboard Module,Scratch through clear coat,Paint,High,synthetic_demo
+AUT-014,B001,Dashboard Module,Panel edge sits above adjacent surface,Fitment,Low,synthetic_demo
+AUT-015,B001,Brake Assembly,Inspection noted: bearing rotation feels rough,Mechanical,High,synthetic_demo
+AUT-016,B001,Brake Assembly,Sensor signal drops during inspection,Electrical,Low,synthetic_demo
+AUT-017,B001,Dashboard Module,Operator reported: misaligned mounting holes,Fitment,Medium,synthetic_demo
+AUT-018,B001,Dashboard Module,QC observation: uneven coating thickness on car door,Paint,Low,synthetic_demo
+AUT-019,B001,Brake Assembly,Scratch through clear coat,Paint,High,synthetic_demo
+AUT-020,B001,Dashboard Module,Dashboard trim not seated properly,Fitment,Medium,synthetic_demo
+AUT-021,B001,Brake Assembly,Brake assembly emits grinding noise,Mechanical,High,synthetic_demo
+AUT-022,B001,Dashboard Module,Operator reported: misaligned mounting holes,Fitment,Medium,synthetic_demo
+AUT-023,B001,Brake Assembly,Sensor signal drops during inspection,Electrical,Low,synthetic_demo
+AUT-024,B001,Brake Assembly,Scratch through clear coat,Paint,Medium,synthetic_demo
+AUT-025,B002,Car Door Assembly,Headlamp circuit shows unstable output,Electrical,Medium,synthetic_demo
+AUT-026,B002,Dashboard Module,Operator reported: fluid leakage at hose joint,Mechanical,High,synthetic_demo
+AUT-027,B002,Brake Assembly,Dashboard warning light flickers,Electrical,Low,synthetic_demo
+AUT-028,B002,Brake Assembly,Surface paint has orange peel texture,Paint,Low,synthetic_demo
+AUT-029,B002,Car Door Assembly,Operator reported: loose interior panel fastener,Fitment,Medium,synthetic_demo
+AUT-030,B002,Dashboard Module,Operator reported: panel edge sits above adjacent surface,Fitment,Low,synthetic_demo
+AUT-031,B002,Car Door Assembly,Paint bubbles visible on panel,Paint,Low,synthetic_demo
+AUT-032,B002,Dashboard Module,Inspection noted: fluid leakage at hose joint,Mechanical,Medium,synthetic_demo
+AUT-033,B002,Brake Assembly,Uneven coating thickness on car door,Paint,Medium,synthetic_demo
+AUT-034,B002,Car Door Assembly,Colour mismatch between adjacent panels,Paint,High,synthetic_demo
+AUT-035,B002,Dashboard Module,Wiring connector intermittently disconnects,Electrical,Low,synthetic_demo
+AUT-036,B002,Brake Assembly,Surface paint has orange peel texture,Paint,Medium,synthetic_demo
+AUT-037,B002,Car Door Assembly,QC observation: unusual vibration during bench test,Mechanical,High,synthetic_demo
+AUT-038,B002,Car Door Assembly,Surface paint has orange peel texture,Paint,High,synthetic_demo
+AUT-039,B002,Dashboard Module,Sensor signal drops during inspection,Electrical,Medium,synthetic_demo
+AUT-040,B002,Car Door Assembly,QC observation: misaligned mounting holes,Fitment,Medium,synthetic_demo
+AUT-041,B002,Brake Assembly,Operator reported: bearing rotation feels rough,Mechanical,High,synthetic_demo
+AUT-042,B002,Brake Assembly,QC observation: headlamp circuit shows unstable output,Electrical,High,synthetic_demo
+AUT-043,B002,Brake Assembly,Sensor signal drops during inspection,Electrical,Medium,synthetic_demo
+AUT-044,B002,Brake Assembly,Inspection noted: sensor signal drops during inspection,Electrical,Low,synthetic_demo
+AUT-045,B002,Dashboard Module,Unusual vibration during bench test,Mechanical,High,synthetic_demo
+AUT-046,B002,Brake Assembly,Operator reported: window switch fails during testing,Electrical,Low,synthetic_demo
+AUT-047,B002,Dashboard Module,Surface paint has orange peel texture,Paint,High,synthetic_demo
+AUT-048,B002,Car Door Assembly,Inspection noted: fluid leakage at hose joint,Mechanical,Low,synthetic_demo
+AUT-049,B002,Dashboard Module,Headlamp circuit shows unstable output,Electrical,Low,synthetic_demo
+AUT-050,B002,Car Door Assembly,Loose interior panel fastener,Fitment,Low,synthetic_demo
+AUT-051,B002,Dashboard Module,Loose interior panel fastener,Fitment,Medium,synthetic_demo
+AUT-052,B002,Brake Assembly,Loose interior panel fastener,Fitment,Medium,synthetic_demo
+AUT-053,B002,Brake Assembly,Fluid leakage at hose joint,Mechanical,High,synthetic_demo
+AUT-054,B002,Brake Assembly,QC observation: misaligned mounting holes,Fitment,Low,synthetic_demo
+AUT-055,B003,Car Door Assembly,Colour mismatch between adjacent panels,Paint,High,synthetic_demo
+AUT-056,B003,Dashboard Module,QC observation: scratch through clear coat,Paint,High,synthetic_demo
+AUT-057,B003,Car Door Assembly,Paint bubbles visible on panel,Paint,Medium,synthetic_demo
+AUT-058,B003,Brake Assembly,QC observation: misaligned mounting holes,Fitment,Low,synthetic_demo
+AUT-059,B003,Car Door Assembly,Paint bubbles visible on panel,Paint,High,synthetic_demo
+AUT-060,B003,Brake Assembly,Inspection noted: headlamp circuit shows unstable output,Electrical,High,synthetic_demo
+AUT-061,B003,Brake Assembly,Loose interior panel fastener,Fitment,Low,synthetic_demo
+AUT-062,B003,Brake Assembly,Inspection noted: bearing rotation feels rough,Mechanical,Medium,synthetic_demo
+AUT-063,B003,Car Door Assembly,QC observation: paint bubbles visible on panel,Paint,Medium,synthetic_demo
+AUT-064,B003,Dashboard Module,Brake assembly emits grinding noise,Mechanical,Medium,synthetic_demo
+AUT-065,B003,Brake Assembly,QC observation: sensor signal drops during inspection,Electrical,Medium,synthetic_demo
+AUT-066,B003,Brake Assembly,Fastener torque below specification,Mechanical,Medium,synthetic_demo
+AUT-067,B003,Car Door Assembly,Door panel gap exceeds tolerance,Fitment,High,synthetic_demo
+AUT-068,B003,Dashboard Module,Unusual vibration during bench test,Mechanical,Medium,synthetic_demo
+AUT-069,B003,Car Door Assembly,Inspection noted: uneven coating thickness on car door,Paint,Low,synthetic_demo
+AUT-070,B003,Car Door Assembly,Panel edge sits above adjacent surface,Fitment,Low,synthetic_demo
+AUT-071,B003,Car Door Assembly,Surface paint has orange peel texture,Paint,Medium,synthetic_demo
+AUT-072,B003,Dashboard Module,Window switch fails during testing,Electrical,High,synthetic_demo
+AUT-073,B003,Car Door Assembly,Wiring connector intermittently disconnects,Electrical,High,synthetic_demo
+AUT-074,B003,Car Door Assembly,Window switch fails during testing,Electrical,Low,synthetic_demo
+AUT-075,B003,Brake Assembly,Surface paint has orange peel texture,Paint,High,synthetic_demo
+AUT-076,B003,Brake Assembly,Loose interior panel fastener,Fitment,High,synthetic_demo
+AUT-077,B003,Car Door Assembly,Fluid leakage at hose joint,Mechanical,Medium,synthetic_demo
+AUT-078,B003,Brake Assembly,Headlamp circuit shows unstable output,Electrical,High,synthetic_demo
+AUT-079,B003,Dashboard Module,Uneven coating thickness on car door,Paint,High,synthetic_demo
+AUT-080,B003,Brake Assembly,Fastener torque below specification,Mechanical,Low,synthetic_demo
+AUT-081,B003,Dashboard Module,Loose interior panel fastener,Fitment,Low,synthetic_demo
+AUT-082,B003,Brake Assembly,Loose interior panel fastener,Fitment,Medium,synthetic_demo
+AUT-083,B003,Brake Assembly,Misaligned mounting holes,Fitment,Low,synthetic_demo
+AUT-084,B003,Car Door Assembly,Operator reported: loose interior panel fastener,Fitment,High,synthetic_demo
+AUT-085,B003,Dashboard Module,Inspection noted: misaligned mounting holes,Fitment,Medium,synthetic_demo
+AUT-086,B003,Brake Assembly,Brake assembly emits grinding noise,Mechanical,High,synthetic_demo
+AUT-087,B003,Brake Assembly,Dashboard trim not seated properly,Fitment,High,synthetic_demo
+AUT-088,B003,Brake Assembly,QC observation: dashboard warning light flickers,Electrical,Low,synthetic_demo
+AUT-089,B003,Car Door Assembly,QC observation: loose interior panel fastener,Fitment,High,synthetic_demo
+AUT-090,B003,Brake Assembly,Window switch fails during testing,Electrical,High,synthetic_demo

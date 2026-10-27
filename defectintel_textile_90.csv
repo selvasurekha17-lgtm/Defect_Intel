@@ -1,0 +1,91 @@
+report_id,batch_id,product,defect_description,category,severity,data_origin
+TEX-001,B001,Cotton Shirt Fabric,Tiny holes visible in fabric,Surface,Low,synthetic_demo
+TEX-002,B001,Cotton Shirt Fabric,Loose yarns across the woven surface,Weaving,High,synthetic_demo
+TEX-003,B001,Polyester Knit,Inspection noted: patchy colour after dyeing,Dyeing,Low,synthetic_demo
+TEX-004,B001,Polyester Knit,QC observation: discoloured section near the seam,Dyeing,High,synthetic_demo
+TEX-005,B001,Cotton Shirt Fabric,Colour bleeding observed during rinse,Dyeing,Low,synthetic_demo
+TEX-006,B001,Cotton Shirt Fabric,Inspection noted: snagged fibre near the edge,Surface,Medium,synthetic_demo
+TEX-007,B001,Polyester Knit,Loose yarns across the woven surface,Weaving,Medium,synthetic_demo
+TEX-008,B001,Cotton Shirt Fabric,Loose yarns across the woven surface,Weaving,High,synthetic_demo
+TEX-009,B001,Polyester Knit,Operator reported: fabric stretched beyond tolerance,Dimensions,High,synthetic_demo
+TEX-010,B001,Cotton Shirt Fabric,Roll length shorter than recorded,Dimensions,High,synthetic_demo
+TEX-011,B001,Cotton Shirt Fabric,Uneven weave pattern near the fabric edge,Weaving,Low,synthetic_demo
+TEX-012,B001,Cotton Shirt Fabric,QC observation: fabric stretched beyond tolerance,Dimensions,Medium,synthetic_demo
+TEX-013,B001,Polyester Knit,Fabric shade varies across the roll,Dyeing,High,synthetic_demo
+TEX-014,B001,Polyester Knit,Abrasion marks on the fabric face,Surface,High,synthetic_demo
+TEX-015,B001,Polyester Knit,Open weave gap along the textile roll,Weaving,High,synthetic_demo
+TEX-016,B001,Cotton Shirt Fabric,Uneven dye absorption leaves pale streaks,Dyeing,Low,synthetic_demo
+TEX-017,B001,Cotton Shirt Fabric,Roll length shorter than recorded,Dimensions,Low,synthetic_demo
+TEX-018,B001,Cotton Shirt Fabric,Seam alignment distorted after finishing,Dimensions,Medium,synthetic_demo
+TEX-019,B001,Denim Roll,Small tear in the cloth,Surface,High,synthetic_demo
+TEX-020,B001,Denim Roll,QC observation: uneven weave pattern near the fabric edge,Weaving,High,synthetic_demo
+TEX-021,B001,Denim Roll,Small tear in the cloth,Surface,Medium,synthetic_demo
+TEX-022,B001,Cotton Shirt Fabric,Uneven weave pattern near the fabric edge,Weaving,Low,synthetic_demo
+TEX-023,B001,Denim Roll,Material shrank after washing,Dimensions,High,synthetic_demo
+TEX-024,B001,Polyester Knit,Colour bleeding observed during rinse,Dyeing,Medium,synthetic_demo
+TEX-025,B002,Polyester Knit,Discoloured section near the seam,Dyeing,Low,synthetic_demo
+TEX-026,B002,Denim Roll,Abrasion marks on the fabric face,Surface,High,synthetic_demo
+TEX-027,B002,Polyester Knit,Inspection noted: open weave gap along the textile roll,Weaving,High,synthetic_demo
+TEX-028,B002,Cotton Shirt Fabric,Discoloured section near the seam,Dyeing,High,synthetic_demo
+TEX-029,B002,Polyester Knit,Roll length shorter than recorded,Dimensions,High,synthetic_demo
+TEX-030,B002,Polyester Knit,Visible broken thread in the cloth,Weaving,High,synthetic_demo
+TEX-031,B002,Cotton Shirt Fabric,Seam alignment distorted after finishing,Dimensions,Low,synthetic_demo
+TEX-032,B002,Cotton Shirt Fabric,Inspection noted: roll length shorter than recorded,Dimensions,High,synthetic_demo
+TEX-033,B002,Cotton Shirt Fabric,Open weave gap along the textile roll,Weaving,High,synthetic_demo
+TEX-034,B002,Denim Roll,Open weave gap along the textile roll,Weaving,Low,synthetic_demo
+TEX-035,B002,Polyester Knit,Discoloured section near the seam,Dyeing,Low,synthetic_demo
+TEX-036,B002,Polyester Knit,Pilling on the textile surface,Surface,Medium,synthetic_demo
+TEX-037,B002,Cotton Shirt Fabric,Small tear in the cloth,Surface,Medium,synthetic_demo
+TEX-038,B002,Polyester Knit,Loose yarns across the woven surface,Weaving,High,synthetic_demo
+TEX-039,B002,Cotton Shirt Fabric,QC observation: uneven weave pattern near the fabric edge,Weaving,High,synthetic_demo
+TEX-040,B002,Polyester Knit,Loose yarns across the woven surface,Weaving,Low,synthetic_demo
+TEX-041,B002,Polyester Knit,Inspection noted: open weave gap along the textile roll,Weaving,High,synthetic_demo
+TEX-042,B002,Cotton Shirt Fabric,Fabric shade varies across the roll,Dyeing,Medium,synthetic_demo
+TEX-043,B002,Denim Roll,Open weave gap along the textile roll,Weaving,Medium,synthetic_demo
+TEX-044,B002,Cotton Shirt Fabric,Fabric width below specification,Dimensions,High,synthetic_demo
+TEX-045,B002,Cotton Shirt Fabric,Visible broken thread in the cloth,Weaving,Low,synthetic_demo
+TEX-046,B002,Cotton Shirt Fabric,Thread density appears irregular,Weaving,Medium,synthetic_demo
+TEX-047,B002,Denim Roll,Fabric shade varies across the roll,Dyeing,Low,synthetic_demo
+TEX-048,B002,Cotton Shirt Fabric,QC observation: abrasion marks on the fabric face,Surface,High,synthetic_demo
+TEX-049,B002,Cotton Shirt Fabric,Operator reported: material shrank after washing,Dimensions,Medium,synthetic_demo
+TEX-050,B002,Denim Roll,Inspection noted: fabric width below specification,Dimensions,Medium,synthetic_demo
+TEX-051,B002,Polyester Knit,QC observation: fabric stretched beyond tolerance,Dimensions,High,synthetic_demo
+TEX-052,B002,Cotton Shirt Fabric,Operator reported: small tear in the cloth,Surface,Low,synthetic_demo
+TEX-053,B002,Cotton Shirt Fabric,Operator reported: discoloured section near the seam,Dyeing,Low,synthetic_demo
+TEX-054,B002,Cotton Shirt Fabric,Abrasion marks on the fabric face,Surface,High,synthetic_demo
+TEX-055,B003,Polyester Knit,Inspection noted: thread density appears irregular,Weaving,Low,synthetic_demo
+TEX-056,B003,Cotton Shirt Fabric,Uneven weave pattern near the fabric edge,Weaving,High,synthetic_demo
+TEX-057,B003,Polyester Knit,Tiny holes visible in fabric,Surface,Medium,synthetic_demo
+TEX-058,B003,Polyester Knit,Operator reported: abrasion marks on the fabric face,Surface,Low,synthetic_demo
+TEX-059,B003,Polyester Knit,Inspection noted: pilling on the textile surface,Surface,High,synthetic_demo
+TEX-060,B003,Cotton Shirt Fabric,Visible broken thread in the cloth,Weaving,Low,synthetic_demo
+TEX-061,B003,Polyester Knit,Discoloured section near the seam,Dyeing,Low,synthetic_demo
+TEX-062,B003,Cotton Shirt Fabric,Operator reported: visible broken thread in the cloth,Weaving,Low,synthetic_demo
+TEX-063,B003,Polyester Knit,Fabric shade varies across the roll,Dyeing,High,synthetic_demo
+TEX-064,B003,Polyester Knit,QC observation: thread density appears irregular,Weaving,Medium,synthetic_demo
+TEX-065,B003,Polyester Knit,Inspection noted: uneven weave pattern near the fabric edge,Weaving,High,synthetic_demo
+TEX-066,B003,Denim Roll,Visible broken thread in the cloth,Weaving,High,synthetic_demo
+TEX-067,B003,Cotton Shirt Fabric,Visible broken thread in the cloth,Weaving,Medium,synthetic_demo
+TEX-068,B003,Cotton Shirt Fabric,Open weave gap along the textile roll,Weaving,Low,synthetic_demo
+TEX-069,B003,Cotton Shirt Fabric,Uneven weave pattern near the fabric edge,Weaving,Medium,synthetic_demo
+TEX-070,B003,Cotton Shirt Fabric,Abrasion marks on the fabric face,Surface,High,synthetic_demo
+TEX-071,B003,Polyester Knit,Uneven weave pattern near the fabric edge,Weaving,Medium,synthetic_demo
+TEX-072,B003,Cotton Shirt Fabric,Operator reported: colour bleeding observed during rinse,Dyeing,Medium,synthetic_demo
+TEX-073,B003,Cotton Shirt Fabric,Material shrank after washing,Dimensions,High,synthetic_demo
+TEX-074,B003,Polyester Knit,Thread density appears irregular,Weaving,Medium,synthetic_demo
+TEX-075,B003,Denim Roll,Pilling on the textile surface,Surface,Low,synthetic_demo
+TEX-076,B003,Polyester Knit,Visible broken thread in the cloth,Weaving,Medium,synthetic_demo
+TEX-077,B003,Denim Roll,QC observation: material shrank after washing,Dimensions,Low,synthetic_demo
+TEX-078,B003,Denim Roll,Operator reported: fabric stretched beyond tolerance,Dimensions,Medium,synthetic_demo
+TEX-079,B003,Denim Roll,QC observation: material shrank after washing,Dimensions,Low,synthetic_demo
+TEX-080,B003,Denim Roll,Loose yarns across the woven surface,Weaving,Medium,synthetic_demo
+TEX-081,B003,Denim Roll,Small tear in the cloth,Surface,High,synthetic_demo
+TEX-082,B003,Cotton Shirt Fabric,Fabric width below specification,Dimensions,Medium,synthetic_demo
+TEX-083,B003,Denim Roll,QC observation: snagged fibre near the edge,Surface,Medium,synthetic_demo
+TEX-084,B003,Cotton Shirt Fabric,Snagged fibre near the edge,Surface,High,synthetic_demo
+TEX-085,B003,Denim Roll,Inspection noted: discoloured section near the seam,Dyeing,High,synthetic_demo
+TEX-086,B003,Polyester Knit,Thread density appears irregular,Weaving,High,synthetic_demo
+TEX-087,B003,Denim Roll,Snagged fibre near the edge,Surface,High,synthetic_demo
+TEX-088,B003,Polyester Knit,Tiny holes visible in fabric,Surface,Medium,synthetic_demo
+TEX-089,B003,Denim Roll,Open weave gap along the textile roll,Weaving,High,synthetic_demo
+TEX-090,B003,Polyester Knit,Fabric shade varies across the roll,Dyeing,Medium,synthetic_demo

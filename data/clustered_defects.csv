@@ -1,0 +1,101 @@
+report_id,batch_id,product,defect_description,category,severity,data_origin,ai_cluster
+R001,B001,Smartphone X1,Device charges only at a certain cable angle,Charging,High,synthetic,34
+R002,B003,Smartphone X1,USB port fails to charge the phone,Charging,Medium,synthetic,2
+R003,B003,Smartphone X1,Ear speaker stops working after reboot,Audio,High,synthetic,15
+R004,B003,Smartphone X1,Dead pixels appear in the screen corner,Display,Low,synthetic,9
+R005,B003,Smartphone X1,Photos appear overexposed,Camera,High,synthetic,33
+R006,B001,Smartphone X1,USB-C connector disconnects easily,Charging,Medium,synthetic,18
+R007,B003,Smartphone X1,Display keeps blinking after startup,Display,Medium,synthetic,4
+R008,B001,Smartphone X1,Camera images show purple artifacts,Camera,Medium,synthetic,3
+R009,B004,Smartphone X1,Screen image becomes distorted,Display,Low,synthetic,9
+R010,B001,Smartphone X1,Image stabilization makes rattling noise,Camera,Low,synthetic,39
+R011,B003,Smartphone X1,Photos have a permanent dark patch,Camera,Medium,synthetic,31
+R012,B004,Smartphone X1,Screen shows random colored bands,Display,Medium,synthetic,25
+R013,B003,Smartphone X1,Charging port pins seem damaged,Charging,Low,synthetic,2
+R014,B001,Smartphone X1,Phone charges only after restarting,Charging,Medium,synthetic,12
+R015,B001,Smartphone X1,Camera focus hunts continuously,Camera,Low,synthetic,8
+R016,B003,Smartphone X1,Power adapter connection is intermittent,Charging,High,synthetic,32
+R017,B001,Smartphone X1,Wireless charging fails to start,Charging,High,synthetic,2
+R018,B001,Smartphone X1,Volume controls do not change speaker output,Audio,Low,synthetic,40
+R019,B001,Smartphone X1,Camera produces grainy images in daylight,Camera,Medium,synthetic,3
+R020,B003,Smartphone X1,Battery warms up during light browsing,Battery,High,synthetic,0
+R021,B001,Smartphone X1,Battery level jumps unexpectedly,Battery,Medium,synthetic,7
+R022,B003,Smartphone X1,Phone overheats while charging,Battery,Medium,synthetic,0
+R023,B001,Smartphone X1,Battery cannot hold charge for long,Battery,Low,synthetic,19
+R024,B001,Smartphone X1,Sound becomes distorted during music,Audio,Medium,synthetic,17
+R025,B001,Smartphone X1,Speaker produces crackling sound,Audio,Low,synthetic,17
+R026,B003,Smartphone X1,Charging speed is abnormally slow,Charging,Low,synthetic,29
+R027,B003,Smartphone X1,Audio cuts out during phone calls,Audio,Low,synthetic,27
+R028,B001,Smartphone X1,Phone shuts down despite remaining charge,Battery,Low,synthetic,12
+R029,B003,Smartphone X1,Speaker makes buzzing noises,Audio,Medium,synthetic,17
+R030,B003,Smartphone X1,Device becomes hot during standby,Battery,Medium,synthetic,0
+R031,B001,Smartphone X1,Display freezes after unlocking,Display,High,synthetic,4
+R032,B003,Smartphone X1,Phone does not charge when plugged in,Charging,Medium,synthetic,2
+R033,B003,Smartphone X1,Charging process pauses unexpectedly,Charging,Medium,synthetic,19
+R034,B003,Smartphone X1,Front camera images have unusual spots,Camera,Low,synthetic,3
+R035,B001,Smartphone X1,Rear camera stops working after launch,Camera,High,synthetic,1
+R036,B001,Smartphone X1,Charging stops and starts repeatedly,Charging,Medium,synthetic,19
+R037,B001,Smartphone X1,Bluetooth call sound breaks repeatedly,Audio,Low,synthetic,27
+R038,B001,Smartphone X1,Charging indicator appears but level stays same,Charging,Low,synthetic,24
+R039,B003,Smartphone X1,Headphone audio is missing on one side,Audio,High,synthetic,30
+R040,B004,Smartphone X1,Panel flickers when brightness is reduced,Display,Low,synthetic,6
+R041,B001,Smartphone X1,Phone switches off at twenty percent,Battery,Medium,synthetic,21
+R042,B003,Smartphone X1,Device becomes very warm at idle,Battery,Low,synthetic,0
+R043,B003,Smartphone X1,Power level falls sharply after reboot,Battery,Medium,synthetic,7
+R044,B001,Smartphone X1,Charging cable is not detected,Charging,Low,synthetic,2
+R045,B004,Smartphone X1,Screen shows a persistent bright spot,Display,Low,synthetic,38
+R046,B001,Smartphone X1,Camera lens shows internal condensation,Camera,Low,synthetic,23
+R047,B003,Smartphone X1,Camera app opens to a black preview,Camera,Medium,synthetic,1
+R048,B001,Smartphone X1,Rear camera produces blurry pictures,Camera,Low,synthetic,3
+R049,B003,Smartphone X1,Green tint visible on the panel,Display,Medium,synthetic,11
+R050,B001,Smartphone X1,Battery drains rapidly with screen off,Battery,High,synthetic,10
+R051,B003,Smartphone X1,Speaker grille rattles at low frequencies,Audio,Medium,synthetic,36
+R052,B001,Smartphone X1,Charging port feels loose,Charging,Low,synthetic,2
+R053,B001,Smartphone X1,Screen flashes repeatedly at low brightness,Display,High,synthetic,6
+R054,B003,Smartphone X1,Phone reports moisture warning with dry port,Charging,High,synthetic,20
+R055,B004,Smartphone X1,Display flashes during video playback,Display,Medium,synthetic,6
+R056,B001,Smartphone X1,Unexpected battery shutdown occurs,Battery,Low,synthetic,12
+R057,B001,Smartphone X1,USB connection drops while charging,Charging,Low,synthetic,18
+R058,B001,Smartphone X1,Camera preview freezes intermittently,Camera,High,synthetic,1
+R059,B001,Smartphone X1,Battery drains quickly overnight,Battery,High,synthetic,10
+R060,B001,Smartphone X1,Autofocus does not lock on subjects,Camera,High,synthetic,16
+R061,B001,Smartphone X1,Battery percentage drops suddenly,Battery,Medium,synthetic,7
+R062,B003,Smartphone X1,Display becomes black while phone is still on,Display,High,synthetic,4
+R063,B001,Smartphone X1,Screen brightness changes without input,Display,Low,synthetic,13
+R064,B003,Smartphone X1,Video recording has distorted frames,Camera,Medium,synthetic,14
+R065,B001,Smartphone X1,Microphone fails to record voice clearly,Audio,High,synthetic,5
+R066,B004,Smartphone X1,Display backlight switches off unexpectedly,Display,Medium,synthetic,13
+R067,B003,Smartphone X1,Camera app crashes when switching lenses,Camera,Medium,synthetic,8
+R068,B003,Smartphone X1,Fast charging does not activate,Charging,Low,synthetic,29
+R069,B001,Smartphone X1,Voice recording contains background hiss,Audio,Medium,synthetic,5
+R070,B001,Smartphone X1,Battery gets unusually hot during use,Battery,Low,synthetic,0
+R071,B001,Smartphone X1,Screen flickers intermittently during use,Display,Low,synthetic,6
+R072,B003,Smartphone X1,Phone call speaker is silent,Audio,Low,synthetic,27
+R073,B003,Smartphone X1,Charging fails with approved adapter,Charging,High,synthetic,2
+R074,B003,Smartphone X1,Audio playback has popping noises,Audio,Medium,synthetic,17
+R075,B003,Smartphone X1,Device fails to recognize charger,Charging,Medium,synthetic,2
+R076,B003,Smartphone X1,Sound output stops intermittently,Audio,Low,synthetic,26
+R077,B003,Smartphone X1,Battery swells inside the casing,Battery,High,synthetic,37
+R078,B003,Smartphone X1,Front camera fails to initialize,Camera,High,synthetic,1
+R079,B001,Smartphone X1,Loudspeaker sounds distorted at high volume,Audio,Medium,synthetic,17
+R080,B003,Smartphone X1,Camera sensor displays colored dots,Camera,High,synthetic,3
+R081,B001,Smartphone X1,Camera module vibrates during recording,Camera,Medium,synthetic,14
+R082,B003,Smartphone X1,Device heats up without heavy usage,Battery,Low,synthetic,0
+R083,B003,Smartphone X1,Battery discharges too rapidly during calls,Battery,Medium,synthetic,10
+R084,B001,Smartphone X1,Call audio becomes muffled,Audio,High,synthetic,27
+R085,B003,Smartphone X1,Audio switches outputs unexpectedly,Audio,High,synthetic,26
+R086,B001,Smartphone X1,Touchscreen stops responding near the edge,Display,Medium,synthetic,28
+R087,B001,Smartphone X1,Power input cuts out during charging,Charging,High,synthetic,19
+R088,B003,Smartphone X1,Video capture shows unexpected flicker,Camera,Low,synthetic,6
+R089,B004,Smartphone X1,Touch input is delayed on the display,Display,High,synthetic,28
+R090,B003,Smartphone X1,Flash does not activate in low light,Camera,Low,synthetic,35
+R091,B001,Smartphone X1,Phone microphone captures static noise,Audio,Low,synthetic,5
+R092,B004,Smartphone X1,Display goes blank after several minutes,Display,Medium,synthetic,4
+R093,B004,Smartphone X1,Touch panel misses taps,Display,High,synthetic,28
+R094,B001,Smartphone X1,Battery temperature rises while gaming,Battery,High,synthetic,0
+R095,B003,Smartphone X1,Phone restarts when battery is low,Battery,High,synthetic,12
+R096,B003,Smartphone X1,Battery health declines unusually fast,Battery,Low,synthetic,7
+R097,B001,Smartphone X1,Microphone sensitivity is too low,Audio,High,synthetic,5
+R098,B003,Smartphone X1,Horizontal lines appear on the display,Display,Low,synthetic,22
+R099,B004,Smartphone X1,Ghost touches happen on the touchscreen,Display,High,synthetic,28
+R100,B003,Smartphone X1,Earpiece volume is extremely low,Audio,Medium,synthetic,15

@@ -1,0 +1,91 @@
+report_id,batch_id,product,defect_description,category,severity,data_origin
+FOO-001,B001,Sealed Food Tray,Pouch heat seal has an open gap,Seal,Low,synthetic_demo
+FOO-002,B001,Sealed Food Tray,Liquid volume below specification,Fill,Medium,synthetic_demo
+FOO-003,B001,Snack Pouch,Packaging film has a visible tear,Container,Medium,synthetic_demo
+FOO-004,B001,Sealed Food Tray,Incorrect batch code printed,Label,High,synthetic_demo
+FOO-005,B001,Juice Carton,Pouch has a puncture,Container,Medium,synthetic_demo
+FOO-006,B001,Sealed Food Tray,Inspection noted: incomplete seal on tray corner,Seal,Medium,synthetic_demo
+FOO-007,B001,Juice Carton,Incomplete seal on tray corner,Seal,High,synthetic_demo
+FOO-008,B001,Juice Carton,Liquid volume below specification,Fill,Medium,synthetic_demo
+FOO-009,B001,Snack Pouch,Ingredient text partially missing,Label,Medium,synthetic_demo
+FOO-010,B001,Juice Carton,Excess product detected in pouch,Fill,Low,synthetic_demo
+FOO-011,B001,Juice Carton,Sealing film has a wrinkle,Seal,Medium,synthetic_demo
+FOO-012,B001,Snack Pouch,Excess product detected in pouch,Fill,Low,synthetic_demo
+FOO-013,B001,Juice Carton,Ingredient text partially missing,Label,Low,synthetic_demo
+FOO-014,B001,Sealed Food Tray,Inspection noted: sealing film has a wrinkle,Seal,Medium,synthetic_demo
+FOO-015,B001,Juice Carton,Package fill weight below target,Fill,Medium,synthetic_demo
+FOO-016,B001,Sealed Food Tray,Barcode fails scanner verification,Label,Medium,synthetic_demo
+FOO-017,B001,Sealed Food Tray,Liquid volume below specification,Fill,High,synthetic_demo
+FOO-018,B001,Sealed Food Tray,Liquid volume below specification,Fill,Low,synthetic_demo
+FOO-019,B001,Snack Pouch,Leak detected along sealed edge,Seal,High,synthetic_demo
+FOO-020,B001,Snack Pouch,Expiry date print is unreadable,Label,High,synthetic_demo
+FOO-021,B001,Juice Carton,Product label is misaligned,Label,Low,synthetic_demo
+FOO-022,B001,Snack Pouch,Tray lid is deformed,Container,Medium,synthetic_demo
+FOO-023,B001,Snack Pouch,Sealing film has a wrinkle,Seal,Low,synthetic_demo
+FOO-024,B001,Sealed Food Tray,Incomplete seal on tray corner,Seal,High,synthetic_demo
+FOO-025,B002,Juice Carton,Operator reported: incomplete seal on tray corner,Seal,High,synthetic_demo
+FOO-026,B002,Juice Carton,Expiry date print is unreadable,Label,Medium,synthetic_demo
+FOO-027,B002,Juice Carton,Operator reported: pouch has a puncture,Container,High,synthetic_demo
+FOO-028,B002,Juice Carton,Packaging film has a visible tear,Container,Medium,synthetic_demo
+FOO-029,B002,Snack Pouch,Sealing film has a wrinkle,Seal,Low,synthetic_demo
+FOO-030,B002,Juice Carton,Product label is misaligned,Label,High,synthetic_demo
+FOO-031,B002,Sealed Food Tray,QC observation: sealing film has a wrinkle,Seal,High,synthetic_demo
+FOO-032,B002,Snack Pouch,Headspace exceeds packing limit,Fill,Medium,synthetic_demo
+FOO-033,B002,Juice Carton,Inspection noted: tray lid is deformed,Container,High,synthetic_demo
+FOO-034,B002,Sealed Food Tray,Pouch has a puncture,Container,High,synthetic_demo
+FOO-035,B002,Snack Pouch,Operator reported: sealing film has a wrinkle,Seal,High,synthetic_demo
+FOO-036,B002,Snack Pouch,Leak detected along sealed edge,Seal,Medium,synthetic_demo
+FOO-037,B002,Sealed Food Tray,Incomplete seal on tray corner,Seal,Medium,synthetic_demo
+FOO-038,B002,Juice Carton,Product label is misaligned,Label,Medium,synthetic_demo
+FOO-039,B002,Snack Pouch,Uneven fill level between units,Fill,Medium,synthetic_demo
+FOO-040,B002,Sealed Food Tray,Inspection noted: expiry date print is unreadable,Label,High,synthetic_demo
+FOO-041,B002,Juice Carton,Packaging film has a visible tear,Container,High,synthetic_demo
+FOO-042,B002,Juice Carton,QC observation: sealing film has a wrinkle,Seal,Low,synthetic_demo
+FOO-043,B002,Juice Carton,Product label is misaligned,Label,High,synthetic_demo
+FOO-044,B002,Sealed Food Tray,Package seal peels apart too easily,Seal,High,synthetic_demo
+FOO-045,B002,Juice Carton,Inspection noted: ingredient text partially missing,Label,High,synthetic_demo
+FOO-046,B002,Snack Pouch,Uneven fill level between units,Fill,Low,synthetic_demo
+FOO-047,B002,Snack Pouch,Operator reported: pouch heat seal has an open gap,Seal,Low,synthetic_demo
+FOO-048,B002,Sealed Food Tray,Operator reported: incomplete seal on tray corner,Seal,Medium,synthetic_demo
+FOO-049,B002,Sealed Food Tray,Headspace exceeds packing limit,Fill,High,synthetic_demo
+FOO-050,B002,Sealed Food Tray,Sealing film has a wrinkle,Seal,Medium,synthetic_demo
+FOO-051,B002,Juice Carton,Operator reported: product label is misaligned,Label,Low,synthetic_demo
+FOO-052,B002,Sealed Food Tray,Incorrect batch code printed,Label,Low,synthetic_demo
+FOO-053,B002,Snack Pouch,Operator reported: product label is misaligned,Label,Low,synthetic_demo
+FOO-054,B002,Sealed Food Tray,Inspection noted: liquid volume below specification,Fill,High,synthetic_demo
+FOO-055,B003,Snack Pouch,Operator reported: carton corner is crushed,Container,Low,synthetic_demo
+FOO-056,B003,Sealed Food Tray,QC observation: excess product detected in pouch,Fill,Low,synthetic_demo
+FOO-057,B003,Sealed Food Tray,Package seal peels apart too easily,Seal,Low,synthetic_demo
+FOO-058,B003,Juice Carton,Package seal peels apart too easily,Seal,High,synthetic_demo
+FOO-059,B003,Snack Pouch,Package fill weight below target,Fill,Low,synthetic_demo
+FOO-060,B003,Snack Pouch,Package seal peels apart too easily,Seal,Low,synthetic_demo
+FOO-061,B003,Snack Pouch,Package seal peels apart too easily,Seal,High,synthetic_demo
+FOO-062,B003,Sealed Food Tray,Packaging film has a visible tear,Container,Medium,synthetic_demo
+FOO-063,B003,Snack Pouch,Packaging film has a visible tear,Container,High,synthetic_demo
+FOO-064,B003,Snack Pouch,QC observation: container wall is dented,Container,Low,synthetic_demo
+FOO-065,B003,Juice Carton,Liquid volume below specification,Fill,Low,synthetic_demo
+FOO-066,B003,Sealed Food Tray,Inspection noted: packaging film has a visible tear,Container,Medium,synthetic_demo
+FOO-067,B003,Sealed Food Tray,QC observation: package seal peels apart too easily,Seal,High,synthetic_demo
+FOO-068,B003,Juice Carton,Packaging film has a visible tear,Container,High,synthetic_demo
+FOO-069,B003,Snack Pouch,Ingredient text partially missing,Label,High,synthetic_demo
+FOO-070,B003,Juice Carton,Headspace exceeds packing limit,Fill,Low,synthetic_demo
+FOO-071,B003,Juice Carton,Incorrect batch code printed,Label,Medium,synthetic_demo
+FOO-072,B003,Juice Carton,Operator reported: expiry date print is unreadable,Label,High,synthetic_demo
+FOO-073,B003,Snack Pouch,Incorrect batch code printed,Label,Medium,synthetic_demo
+FOO-074,B003,Sealed Food Tray,Inspection noted: pouch heat seal has an open gap,Seal,High,synthetic_demo
+FOO-075,B003,Sealed Food Tray,Incorrect batch code printed,Label,High,synthetic_demo
+FOO-076,B003,Juice Carton,Expiry date print is unreadable,Label,High,synthetic_demo
+FOO-077,B003,Juice Carton,Package fill weight below target,Fill,High,synthetic_demo
+FOO-078,B003,Sealed Food Tray,Incomplete seal on tray corner,Seal,Low,synthetic_demo
+FOO-079,B003,Juice Carton,Expiry date print is unreadable,Label,High,synthetic_demo
+FOO-080,B003,Sealed Food Tray,Leak detected along sealed edge,Seal,Medium,synthetic_demo
+FOO-081,B003,Sealed Food Tray,Headspace exceeds packing limit,Fill,High,synthetic_demo
+FOO-082,B003,Juice Carton,Operator reported: leak detected along sealed edge,Seal,High,synthetic_demo
+FOO-083,B003,Sealed Food Tray,Inspection noted: uneven fill level between units,Fill,High,synthetic_demo
+FOO-084,B003,Snack Pouch,Incorrect batch code printed,Label,Low,synthetic_demo
+FOO-085,B003,Juice Carton,Pouch has a puncture,Container,Medium,synthetic_demo
+FOO-086,B003,Sealed Food Tray,Leak detected along sealed edge,Seal,High,synthetic_demo
+FOO-087,B003,Sealed Food Tray,QC observation: pouch heat seal has an open gap,Seal,Low,synthetic_demo
+FOO-088,B003,Sealed Food Tray,Sealing film has a wrinkle,Seal,Medium,synthetic_demo
+FOO-089,B003,Juice Carton,QC observation: product label is misaligned,Label,Low,synthetic_demo
+FOO-090,B003,Juice Carton,Product label is misaligned,Label,High,synthetic_demo
